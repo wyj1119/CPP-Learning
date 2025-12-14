@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-
+// 图例: ./figures/电脑组装类案例.png
 class CPU{
     public:
         virtual void Calculate() = 0;
